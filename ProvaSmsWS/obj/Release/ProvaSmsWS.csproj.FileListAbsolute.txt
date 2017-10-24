@@ -1,0 +1,8 @@
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\bin\ProvaSmsWS.dll.config
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\bin\ProvaSmsWS.dll
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\bin\ProvaSmsWS.pdb
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\bin\Newtonsoft.Json.dll
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\bin\Newtonsoft.Json.xml
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\obj\Release\ProvaSmsWS.csprojResolveAssemblyReference.cache
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\obj\Release\ProvaSmsWS.dll
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS\obj\Release\ProvaSmsWS.pdb

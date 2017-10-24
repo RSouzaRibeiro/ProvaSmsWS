@@ -1,0 +1,6 @@
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\bin\ProvaSmsWS.DAO.dll.config
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\bin\ProvaSmsWS.DAO.dll
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\bin\ProvaSmsWS.DAO.pdb
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\obj\Debug\ProvaSmsWS.DAO.dll
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\obj\Debug\ProvaSmsWS.DAO.pdb
+H:\TesteSMS\ProvaSmsWS\ProvaSmsWS.DAO\obj\Debug\ProvaSmsWS.DAO.csprojResolveAssemblyReference.cache
